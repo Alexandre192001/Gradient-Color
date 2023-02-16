@@ -1,0 +1,15 @@
+{
+  "name": "geradorgradient",
+  "version": "1.0.0",
+  "description": "Gerador de cores em Gradient",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/sass/style.sass:assets/css/style.css"
+  },
+  "keywords": [],
+  "author": "Alexandre Cavalcante",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.1"
+  }
+}
